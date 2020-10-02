@@ -1,0 +1,75 @@
+@media screen and (max-width: 501px) {
+	.header {
+		text-align: center !important;
+		justify-content: center !important;
+	}
+
+	.h1-1 {
+		margin-left: 0px !important;
+	}
+
+	.h1-2 {
+		margin-left: 0px !important;
+	}
+
+	.logo {
+		margin-right: 0px !important;
+		margin-left: 0px !important;
+	}
+
+	.yandex-money {
+		height: 100% !important;
+	}
+
+	.content-1 {
+		margin-top: 220px;
+	}
+
+	.padding {
+		padding: 0 !important;
+	}
+
+	.sircle-1 {
+		margin-right: 5px;
+	}
+
+	.pharagraph-3 {
+		margin-right: 0;
+	}
+
+	.pharagraph-5 {
+		color: white;
+	}
+
+	.text-1 {
+		color: white;
+	}
+
+	.footer {
+		margin-bottom: 180px;
+	}
+
+	.span-5 {
+		margin-left: 15px;
+		float: none !important;
+		margin-right: 0 !important;
+	}
+
+	.span-5-2 {
+		margin-left: 23px;
+	}
+
+	.pharagraph-7 {
+		margin-top: 30px;
+	}
+
+	.pharagraph-8 {
+		margin-top: 10px;
+		font-size: 16px;
+    	line-height: 19px;
+    	color: #FFFFFF;
+    	font-family: open-sans, sans-serif;
+    	font-weight: 300;
+    	font-style: italic;
+	}
+}
